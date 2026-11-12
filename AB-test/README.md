@@ -55,4 +55,4 @@
 
 ### Файлы в репозитории
 * `Marketpele_AB_Test.ipynb` — основной Jupyter Notebook с кодом, графиками и расчетами.
-* `Marketpele_AB_Test_Presentation.pptx` — итоговая презентация с бизнес-выводами.
+* `Marketpele_AB_Test_Presentation.pptx`, `Marketpele_AB_Test_Presentation.pdf` — итоговая презентация с бизнес-выводами.
